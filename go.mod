@@ -53,7 +53,7 @@ require (
 	github.com/google/go-containerregistry v0.21.5
 	github.com/google/uuid v1.6.0
 	github.com/gophercloud/gophercloud v1.14.1
-	github.com/hetznercloud/hcloud-go/v2 v2.21.0
+	github.com/hetznercloud/hcloud-go/v2 v2.36.0
 	github.com/jackpal/gateway v1.0.14
 	github.com/kubermatic/grafanasdk v0.9.14
 	github.com/kyverno/kyverno v1.17.2
@@ -96,8 +96,8 @@ require (
 	gopkg.in/gcfg.v1 v1.2.3
 	gopkg.in/yaml.v3 v3.0.1
 	helm.sh/helm/v3 v3.20.2
-	k8c.io/kubeone v1.12.3
-	k8c.io/kubermatic/sdk/v2 v2.28.1
+	k8c.io/kubeone v1.13.5
+	k8c.io/kubermatic/sdk/v2 v2.30.6
 	k8c.io/machine-controller/sdk v1.66.1
 	k8c.io/operating-system-manager v1.10.7
 	k8c.io/reconciler v0.5.0
@@ -504,8 +504,8 @@ require (
 	k8s.io/component-helpers v0.35.4 // indirect
 	k8s.io/gengo/v2 v2.0.0-20251215205346-5ee0d033ba5b // indirect
 	k8s.io/kube-openapi v0.0.0-20260127142750-a19766b6e2d4 // indirect
-	k8s.io/kube-proxy v0.33.4 // indirect
-	k8s.io/kubelet v0.33.4 // indirect
+	k8s.io/kube-proxy v0.35.0 // indirect
+	k8s.io/kubelet v0.35.0 // indirect
 	kubevirt.io/controller-lifecycle-operator-sdk/api v0.2.4 // indirect
 	oras.land/oras-go/v2 v2.6.0 // indirect
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730 // indirect
